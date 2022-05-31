@@ -1,7 +1,5 @@
 
-<title>
-"Welcome to a picture of me!"
-<title/>
+## "Welcome to a picture of me!"
 
 <h4>
 ## My favorite picture since it has my favorite flowers. Dandelions!
