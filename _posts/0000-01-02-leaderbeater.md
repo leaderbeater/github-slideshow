@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to KING KONG JUNGLE!"
 ---
 DK ... DONKEY KONG.... He knows the trouble but he has the CREW
 Here is a picture of DK
